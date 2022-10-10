@@ -1,0 +1,10 @@
+{
+  "labels":[
+    "3_Ensino_Medio",
+    "2_Ensino_Fundamental_II",
+    "4_Ensino_Superior",
+    "1_Ensino_Fundamental_I"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
